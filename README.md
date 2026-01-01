@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
 :<br>🔭 I’m currently working on: cross-platform apps with Flutter and learning Python for AI/ML projects.<br>- 👯 I’m looking to collaborate on: Flutter apps, data cleaning/visualization projects, and small ML prototypes.<br>- 🤝 I’m looking for help with: evaluating ML models, deploying simple models, and publishing mobile apps.<br>- 🌱 I’m currently learning: Python (pandas, NumPy, scikit-learn), TensorFlow/Keras basics, and on-device ML for Flutter.<br>- 💬 Ask me about: Flutter UI, building REST APIs, Python scripting, and beginner ML approaches.<br>- ⚡ Fun fact: I follow a project-per-week routine to learn by doing.<br>
 
 
